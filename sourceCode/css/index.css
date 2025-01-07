@@ -1,0 +1,35 @@
+Body {
+    background-color: lightgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;            
+
+}
+
+.center {
+    text-align : center;
+}
+
+#uma {
+    color: darkgreen;
+    text-align: center;
+}
+h2,footer{
+    text-align: center;
+    /* margin-top: 400px; */
+}
+li {
+    font-size: large;
+    list-style-type: none;
+    padding-top: 7px;
+    line-height: 2em;
+}
+a:hover {
+    background-color: yellowgreen;
+    text-decoration: none;
+
+}
+a:link {
+    color: darkgreen;
+    text-decoration: none;
+    cursor: pointer;
+
+}
